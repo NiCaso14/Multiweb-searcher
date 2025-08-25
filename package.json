@@ -1,0 +1,13 @@
+{
+  "name": "nicaso14-web-surfer",
+  "version": "1.0.0",
+  "description": "Multi-navegador web con más de 30 motores de búsqueda, incluyendo personalizados NiCaso14.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
